@@ -29,7 +29,7 @@ def last_element_with_array_methods(whatever)
 end 
 
 def length_of_array(something)
-  array.length
+  something.length
 end  
 
 
